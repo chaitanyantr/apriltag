@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="90">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 20L10 20L10 0L0 0z"/>
+<path style="fill:#000000; stroke:none;" d="M10 0L10 20L0 20L0 70L10 70L10 80L0 80L0 90L30 90L30 80L50 80L50 90L70 90L70 80L80 80L80 90L90 90L90 70L80 70L80 60L90 60L90 50L80 50L80 40L90 40L90 0L60 0L60 10L40 10L40 0L10 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M40 0L40 10L60 10L60 0L40 0M20 20L20 70L70 70L70 20L20 20z"/>
+<path style="fill:#000000; stroke:none;" d="M30 30L30 50L40 50L40 60L60 60L60 40L50 40L50 50L40 50L40 30L30 30z"/>
+<path style="fill:#ffffff; stroke:none;" d="M80 40L80 50L90 50L90 40L80 40M80 60L80 70L90 70L90 60L80 60M0 70L0 80L10 80L10 70L0 70M30 80L30 90L50 90L50 80L30 80M70 80L70 90L80 90L80 80L70 80z"/>
+</svg>
