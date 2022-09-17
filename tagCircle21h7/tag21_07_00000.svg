@@ -1,19 +1,9 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="90.000000pt" height="90.000000pt" viewBox="0 0 90.000000 90.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,90.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M400 850 l0 -50 -150 0 -150 0 0 -100 0 -100 -50 0 -50 0 0 -100 0
--100 50 0 50 0 0 -150 0 -150 100 0 100 0 0 -50 0 -50 150 0 150 0 0 50 0 50
-100 0 100 0 0 200 0 200 50 0 50 0 0 50 0 50 -50 0 -50 0 0 100 0 100 -150 0
--150 0 0 50 0 50 -50 0 -50 0 0 -50z m300 -400 l0 -250 -250 0 -250 0 0 250 0
-250 250 0 250 0 0 -250z"/>
-<path d="M300 550 l0 -50 50 0 50 0 0 50 0 50 -50 0 -50 0 0 -50z"/>
-<path d="M300 350 l0 -50 50 0 50 0 0 50 0 50 -50 0 -50 0 0 -50z"/>
-<path d="M500 350 l0 -50 50 0 50 0 0 50 0 50 -50 0 -50 0 0 -50z"/>
-</g>
+<?xml version="1.0" standalone="yes"?>
+<svg width="360" height="360">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 120L40 120L40 40L160 40L160 0L0 0z"/>
+<path style="fill:#000000; stroke:none;" d="M160 0L160 40L40 40L40 120L0 120L0 200L40 200L40 320L120 320L120 360L240 360L240 320L320 320L320 160L360 160L360 120L320 120L320 40L200 40L200 0L160 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M200 0L200 40L320 40L320 120L360 120L360 0L200 0M80 80L80 280L280 280L280 80L80 80z"/>
+<path style="fill:#000000; stroke:none;" d="M120 120L120 160L160 160L160 120L120 120z"/>
+<path style="fill:#ffffff; stroke:none;" d="M320 160L320 320L240 320L240 360L360 360L360 160L320 160M0 200L0 360L120 360L120 320L40 320L40 200L0 200z"/>
+<path style="fill:#000000; stroke:none;" d="M120 200L120 240L160 240L160 200L120 200M200 200L200 240L240 240L240 200L200 200z"/>
 </svg>

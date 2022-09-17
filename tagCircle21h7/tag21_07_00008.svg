@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<svg width="360" height="360">
+<path style="fill:#ffffff; stroke:none;" d="M0 0L0 120L40 120L40 40L120 40L120 0L0 0z"/>
+<path style="fill:#000000; stroke:none;" d="M120 0L120 40L40 40L40 120L0 120L0 160L40 160L40 320L120 320L120 360L200 360L200 320L320 320L320 240L360 240L360 200L320 200L320 40L200 40L200 0L120 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M200 0L200 40L320 40L320 200L360 200L360 0L200 0M80 80L80 280L280 280L280 80L80 80z"/>
+<path style="fill:#000000; stroke:none;" d="M120 120L120 160L160 160L160 120L120 120z"/>
+<path style="fill:#ffffff; stroke:none;" d="M0 160L0 360L120 360L120 320L40 320L40 160L0 160z"/>
+<path style="fill:#000000; stroke:none;" d="M200 160L200 200L120 200L120 240L200 240L200 200L240 200L240 160L200 160z"/>
+<path style="fill:#ffffff; stroke:none;" d="M320 240L320 320L200 320L200 360L360 360L360 240L320 240z"/>
+</svg>
